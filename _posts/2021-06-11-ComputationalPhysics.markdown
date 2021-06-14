@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computational Phyics Question Repository Created"
+title:  "Computational Physics Question Repository Created"
 date:   2021-06-14 11:32:00 -0400
 categories: physics jupyter Julia Python
 ---
