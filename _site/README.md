@@ -1,2 +1,2 @@
 # paulnakroshis.github.io
-Welcome to my Github home page. 
+Department of Physics, University of Southern Maine 
